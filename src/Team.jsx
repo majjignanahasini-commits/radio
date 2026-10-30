@@ -35,21 +35,18 @@ import srijan from "/assets/images/4th_yr/srijan.jpg"
 // 3rd yr wale
 import shivamKumar from "/assets/images/3rd_yr/shivam.jpg";
 import pratik from "/assets/images/3rd_yr/Pratik.jpg";
-import shobhit from "/assets/images/3rd_yr/Shobhit_.jpg";
 import raniPrasanna from "/assets/images/3rd_yr/Rani.jpg";
 import philimon from "/assets/images/3rd_yr/Philimon_.jpg";
-import suhani from "/assets/images/3rd_yr/Suhani.jpg";
+import suhani from "/assets/images/3rd_yr/suhani.jpg";
 import pravat from "/assets/images/3rd_yr/Pravat.JPG";
 import tolaram from "/assets/images/3rd_yr/Tolaram_.jpg";
-import pallavi from "/assets/images/3rd_yr/Pallavi Kumari_.jpg";
-import arijit from "/assets/images/3rd_yr/ar1.jpg";
+import arijit from "/assets/images/3rd_yr/arijit.jpg";
 import jayant from "/assets/images/3rd_yr/jay.jpg";
 import Akhil from "/assets/images/3rd_yr/Akhil.jpg";
-import murthy from "/assets/images/3rd_yr/murthy.jpeg";
 import Saipriya from "/assets/images/3rd_yr/Saipriya .jpg";
 import Chandra from "/assets/images/3rd_yr/Chandramouli.jpg";
-import Shivansh from "/assets/images/3rd_yr/Shivansh.jpg";
-import ishita from "/assets/images/3rd_yr/ishita.jpg";
+import murthy from "/assets/images/3rd_yr/murthy.jpg";
+import abirDas from "/assets/images/3rd_yr/Abir Das.jpg";
 
 //2nd year (examples)
 import sharad from "/assets/images/2nd_yr/sharad.jpeg";
@@ -59,7 +56,7 @@ import trisha from "/assets/images/2nd_yr/trisha.jpeg";
 import kuldeep from "/assets/images/2nd_yr/kuldeep.jpeg";
 import tarak from "/assets/images/2nd_yr/tarak.jpeg";
 import mohitha from "/assets/images/2nd_yr/nandini.jpeg";
-import hasini from "/assets/images/2nd_yr/hasini.jpeg";
+import hasini from "/assets/images/2nd_yr/hasini.jpg";
 import dinesh from "/assets/images/2nd_yr/dinesh.jpeg";
 import rudra from "/assets/images/2nd_yr/rudra.jpeg";
 
@@ -307,17 +304,7 @@ const members = {
       phone: "+918144171159",
       email: "pkonel1234@gmail.com",
     },
-    {
-      name: "Shobhit Lakra",
-      photo: shobhit,
-      domain: "Event Management",
-      instagram:
-        "https://www.instagram.com/steven_shobhit_31?igsh=MTc1aGExYnRhZ3JuYw==",
-      linkedin:
-        "https://www.linkedin.com/in/shobhit-lakra-335314310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      phone: "+919609303463",
-      email: "shobhitlakra31@gmail.com",
-    },
+   
     {
       name: "Rani Prasanna",
       photo: raniPrasanna,
@@ -351,33 +338,16 @@ const members = {
       phone: "+919390230633",
       email: "akhilkintali23@gmail.com",
     },
-    {
-      name:" K Murthy",
-      photo:murthy,
-      domain:"Video Editing",
-      instagram:"https://www.instagram.com/murthy_7.0?igsh=MWk2dDJvNGwwbWt1eQ==",
-      linkedin:"https://www.linkedin.com/in/d-s-v-v-sn-murthy-kummarapurugu-782516331?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-      phone:"+916301018012",
-      email:"satya18199@gmail.com",
-    },
-    {
-      name: "Shivansh Pratap Chaudhary",
-      photo: Shivansh,
-      domain: "Video Editing",
-      instagram: "https://www.instagram.com/shivanshjaypratap/#",
-      linkedin:
-        "https://www.linkedin.com/in/shivansh-pratap-chaudhary-1a6b84326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      phone: "+917905226830",
-      email: "pratapshivansh2005@gmail.com",
-    },
+  
+ 
     {
       name: "Suhani Vishwakarma",
       photo: suhani,
       domain: "Web Development & Public Speaking",
       instagram:
-        "https://www.instagram.com/suhani_vishwakarma?igsh=MW45ZGV4cW5oMHFuOQ==",
+        "https://www.instagram.com/_suhani_vishwakarma_?psln=MW45ZGV4cW5oMHFuOQ==",
       linkedin:
-        "https://www.linkedin.com/in/suhani-vishwakarma-aabb62358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+       " https://www.linkedin.com/in/suhani-vishwakarma-b1a833416?utm_source=share_via&utm_content=profile&utm_medium=member_android",
       phone: "+919696692324",
       email: "suhanivishwakarma185@gmail.com",
     },
@@ -403,17 +373,7 @@ const members = {
       phone: "+919257191742",
       email: "tolaramkewatiya@gmail.com",
     },
-    {
-      name: "Pallavi Kumari",
-      photo: pallavi,
-      domain: "Graphic Design & Event Management",
-      instagram:
-        "https://www.instagram.com/pallavikumari_28?igsh=MXUwb2loNWE5YjM4cA==",
-      linkedin:
-        "https://www.linkedin.com/in/pallavi-kumari-02b78a31b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_apps",
-      phone: "+919547051031",
-      email: "pk.24u10367@nitdgp.ac.in",
-    },
+  
     {
       name: "Arijit Bag",
       photo: arijit,
@@ -456,14 +416,24 @@ const members = {
       phone: "+918387817610",
       email: "jayantrachhoya@gmail.com",
     },
+
+     {
+      name: "Murthy",
+      photo: murthy,
+      domain: "Video Editing",
+      instagram: "https://www.instagram.com/murthy_7.0?mdxt=MmpmZjI3MTQ2OXlu",
+      linkedin: "https://www.linkedin.com/in/d-s-v-v-sn-murthy-kummarapurugu-782516331?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      phone: "+916301018012",
+      email: "murthy18198@gmail.com ",
+    },
     {
-      name: "Ishita Panda",
-      photo: ishita,
-      domain: "Event Management & Content Writing",
-      instagram: "https://www.instagram.com/the_ipanda?igsh=YmMzYW5rejN1dXJs",
-      linkedin: "https://www.linkedin.com/in/ishita-panda-2783ba355",
-      phone: "+918436633569",
-      email: "ip.24u10942@nitdgp.ac.in ",
+      name: "Abir Das",
+      photo: abirDas,
+      domain: "Graphic Design",
+      instagram: "https://www.instagram.com/_abir_._das?exln=MWFhdXl0NjNnMGh5Mg==",
+      linkedin: "https://www.linkedin.com/in/abir-das-b40856325?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      phone: "+917319428779",
+      email: "abir2004das@gmail.com",
     },
   ],
   secondYear: [
@@ -531,7 +501,7 @@ const members = {
       email:"mohitanandini@gmail.com",
   },
   {
-    name:"Majji Gnana Hasini",
+    name:"Gnana Hasini Majji",
     photo: hasini,
     domain: "Web Devlopment and Content Writing",
     instagram:"https://www.instagram.com/__hasiniii_08?igsh=MWtxeDZ1MHNsMGhlYw==",
